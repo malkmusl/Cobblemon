@@ -1,0 +1,6 @@
+{
+  "doVersionVerification": false,
+  "configVersion": "1.1.8",
+  "blackListedPokemon": [],
+  "versionVerificationTimeoutMillis": 1000
+}
